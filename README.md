@@ -1,2 +1,2 @@
 # to-do-react-app
-Aplicación de ToDos creada en React Js, con el fin de practicar y reforzar conocimientos del framewor
+ToDos application created in React Js, in order to practice and reinforce knowledge of the framework
